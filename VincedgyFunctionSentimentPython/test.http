@@ -1,0 +1,6 @@
+POST http://localhost:7071/api/VincedgyFunctionSentimentPython
+Content-Type: application/json
+
+{
+    "text": "I hate being happy people"
+}
